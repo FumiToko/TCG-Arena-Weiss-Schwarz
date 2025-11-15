@@ -64,11 +64,12 @@
           "Back_Stage_1",
           "Level",
           "Clock",
-          "Climax_Area"
+          "Climax_Area",
+          "Memory"
         ],
         "layout": {
           "direction": "row",
-          "isSymetricalForOpponents": false,
+          "isSymetricalForOpponents": true,
           "content": [
             {
               "direction": "column",
@@ -132,15 +133,11 @@
               "content": [
                 {
                   "section": "Memory",
-                  "style": {
-                    "width": "15vh"
-                  }
+                  "style": false
                 },
                 {
                   "section": "Level",
-                  "style": {
-                    "width": "15vh"
-                  }
+                  "style": ""
                 },
                 {
                   "section": "Clock",
@@ -171,7 +168,7 @@
             "isHorizontalAllowed": false,
             "displayedTitle": "Stock",
             "noQuickActions": true,
-            "enterTapped": true,
+            "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": true,
@@ -287,6 +284,22 @@
             "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Memory": {
+            "title": "Memory",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           }
         }
