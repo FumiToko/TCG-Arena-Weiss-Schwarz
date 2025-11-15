@@ -125,21 +125,6 @@
                 }
               ],
               "isSymetricalForOpponents": false
-            },
-            {
-              "direction": "column",
-              "style": false,
-              "content": [
-                {
-                  "section": "Level",
-                  "style": false
-                },
-                {
-                  "section": "Clock",
-                  "style": false
-                }
-              ],
-              "isSymetricalForOpponents": false
             }
           ]
         },
