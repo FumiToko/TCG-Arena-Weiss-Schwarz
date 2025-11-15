@@ -132,6 +132,10 @@
               "style": false,
               "content": [
                 {
+                  "section": "Memory",
+                  "style": false
+                },
+                {
                   "section": "Level",
                   "style": false
                 },
@@ -141,10 +145,6 @@
                 }
               ],
               "isSymetricalForOpponents": false
-            },
-            {
-              "section": "Memory",
-              "style": false
             }
           ]
         },
