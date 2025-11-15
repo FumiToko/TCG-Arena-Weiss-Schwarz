@@ -14,7 +14,7 @@
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://fumitoko.github.io/TCG-Arena-Weiss-Schwarz/Game_WeissSchwarz.json",
+    "dataUrl": "https://fumitoko.github.io/TCG-Arena-Weiss-Schwarz/CardList.json",
     "cardBack": "https://fumitoko.github.io/TCG-Arena-Weiss-Schwarz/Images/cardback.jpg"
   },
   "deckBuilding": {
