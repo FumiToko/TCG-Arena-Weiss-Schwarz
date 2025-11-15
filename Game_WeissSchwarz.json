@@ -125,6 +125,29 @@
                 }
               ],
               "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": "",
+              "content": [
+                {
+                  "section": "Memory",
+                  "style": {
+                    "width": "15vh"
+                  }
+                },
+                {
+                  "section": "Level",
+                  "style": {
+                    "width": "15vh"
+                  }
+                },
+                {
+                  "section": "Clock",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
             }
           ]
         },
