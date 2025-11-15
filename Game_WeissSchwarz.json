@@ -1,21 +1,21 @@
 {
   "name": "Weiss Schwarz",
-  "menuBackgroundImage": "https://github.com/FumiToko/TCG-Arena-Weiss-Schwarz/blob/main/Images/banner.jpg",
+  "menuBackgroundImage": "https://fumitoko.github.io/TCG-Arena-Weiss-Schwarz/Images/banner.jpg",
   "defaultRessources": {
     "backgrounds": [
-      "https://github.com/FumiToko/TCG-Arena-Weiss-Schwarz/blob/main/Images/1.jpg",
-      "https://github.com/FumiToko/TCG-Arena-Weiss-Schwarz/blob/main/Images/2.jpg",
-      "https://github.com/FumiToko/TCG-Arena-Weiss-Schwarz/blob/main/Images/3.jpg",
-      "https://github.com/FumiToko/TCG-Arena-Weiss-Schwarz/blob/main/Images/4.jpg",
-      "https://github.com/FumiToko/TCG-Arena-Weiss-Schwarz/blob/main/Images/5.jpg"
+      "https://fumitoko.github.io/TCG-Arena-Weiss-Schwarz/Images/1.jpg",
+      "https://fumitoko.github.io/TCG-Arena-Weiss-Schwarz/Images/2.jpg",
+      "https://fumitoko.github.io/TCG-Arena-Weiss-Schwarz/Images/3.jpg",
+      "https://fumitoko.github.io/TCG-Arena-Weiss-Schwarz/Images/4.jpg",
+      "https://fumitoko.github.io/TCG-Arena-Weiss-Schwarz/Images/5.jpg"
     ],
     "decksUrl": ""
   },
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://github.com/FumiToko/TCG-Arena-Weiss-Schwarz/blob/main/CardList.json",
-    "cardBack": "https://github.com/FumiToko/TCG-Arena-Weiss-Schwarz/blob/main/Images/cardback.png"
+    "dataUrl": "https://fumitoko.github.io/TCG-Arena-Weiss-Schwarz/Game_WeissSchwarz.json",
+    "cardBack": "https://fumitoko.github.io/TCG-Arena-Weiss-Schwarz/Images/cardback.jpg"
   },
   "deckBuilding": {
     "mainFilters": [
