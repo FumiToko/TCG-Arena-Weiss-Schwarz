@@ -1,0 +1,18 @@
+{
+  "DG/EN-S03-E001": {
+    "id": "DG/EN-S03-E001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fuka Kazamatsuri",
+        "type": false,
+        "cost": "2",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/d/dg_en_s03/DG_EN_S03_E001.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fuka Kazamatsuri",
+    "type": false,
+    "cost": "2"
+  }
+}
