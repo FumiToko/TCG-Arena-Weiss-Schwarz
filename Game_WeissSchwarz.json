@@ -49,7 +49,9 @@
       },
       "defaultNotes": "",
       "tokens": [],
-      "countersStartingValues": [],
+      "countersStartingValues": [
+        "1"
+      ],
       "hideFacedDownCards": true,
       "sections": {
         "customSections": [
