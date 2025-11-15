@@ -42,7 +42,7 @@
         "drawNewSelectedCards": false
       },
       "newTurn": {
-        "drawOnStart": false,
+        "drawOnStart": true,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
         "drawPerTurn": 1
@@ -50,7 +50,8 @@
       "defaultNotes": "",
       "tokens": [],
       "countersStartingValues": [
-        "1"
+        "1",
+        0
       ],
       "hideFacedDownCards": true,
       "sections": {
@@ -148,8 +149,14 @@
           ]
         },
         "categoriesAlreadyOnBoard": [],
-        "autoPlayFromHand": {},
-        "autoPlayFromStack": {},
+        "autoPlayFromHand": {
+          "Climax": "Climax_Area",
+          "Event": "Stack"
+        },
+        "autoPlayFromStack": {
+          "Climax": "Discard",
+          "Event": "Discard"
+        },
         "sectionsDict": {
           "Stock": {
             "title": "Stock",
