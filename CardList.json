@@ -1,18 +1,29 @@
 {
-  "DG/EN-S03-E001": {
-    "id": "DG/EN-S03-E001",
+  "MR/W80-E001": {
+    "id": "MR/W80-E001",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Fuka Kazamatsuri",
-        "type": false,
-        "cost": "2",
-        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/d/dg_en_s03/DG_EN_S03_E001.png",
+        "name": "Comrades of Mikazuki Villa, Tsuruno",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E001.png",
         "isHorizontal": false
       }
     },
-    "name": "Fuka Kazamatsuri",
-    "type": false,
-    "cost": "2"
+    "name": "Comrades of Mikazuki Villa, Tsuruno",
+    "type": "Character",
+    "cost": 0,
+    "Series": "Puella Magi Madoka Magica",
+    "Level": 0,
+    "Power": "2000",
+    "Soul": "1",
+    "Trigger Icon": "",
+    "Color": "Yellow",
+    "Trait 1": "Magic",
+    "Trait 2": "Flame",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
   }
 }
