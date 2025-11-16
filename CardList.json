@@ -25,5 +25,734 @@
     "Trait 3": "",
     "Side": "Weiss",
     "Counter/Clock": ""
+  },
+  "MR/W80-E002": {
+    "id": "MR/W80-E002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Comrades of Mikazuki Villa, Felicia",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E002.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Comrades of Mikazuki Villa, Felicia",
+    "type": "Character",
+    "cost": 0,
+    "Series": "Puella Magi Madoka Magica",
+    "Level": "1",
+    "Power": "4000",
+    "Soul": "1",
+    "Trigger Icon": "",
+    "Color": "Yellow",
+    "Trait 1": "Magic",
+    "Trait 2": "",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E003": {
+    "id": "MR/W80-E003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Comrades of Mikazuki Villa, Iroha",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E003.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Comrades of Mikazuki Villa, Iroha",
+    "type": "Character",
+    "cost": "2",
+    "Series": "Puella Magi Madoka Magica",
+    "Level": "3",
+    "Power": "10000",
+    "Soul": "2",
+    "Trigger Icon": "Soul",
+    "Color": "Yellow",
+    "Trait 1": "Magic",
+    "Trait 2": "Cooking",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E004": {
+    "id": "MR/W80-E004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Raring to Go, Felicia",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E004.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raring to Go, Felicia",
+    "type": "Character",
+    "cost": 0,
+    "Series": "Puella Magi Madoka Magica",
+    "Level": "0",
+    "Power": "1500",
+    "Soul": "1",
+    "Trigger Icon": "",
+    "Color": "Yellow",
+    "Trait 1": "Magic",
+    "Trait 2": "Weapon",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E005": {
+    "id": "MR/W80-E005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Everyone's Own Feelings, Iroha",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E005.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Everyone's Own Feelings, Iroha",
+    "type": "Character",
+    "cost": 0,
+    "Series": "Puella Magi Madoka Magica",
+    "Level": "1",
+    "Power": "4000",
+    "Soul": "1",
+    "Trigger Icon": "",
+    "Color": "Yellow",
+    "Trait 1": "Magic",
+    "Trait 2": "Cooking",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E006": {
+    "id": "MR/W80-E006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pursuing the Truth of Rumors, Iroha",
+        "type": "Character",
+        "cost": "1",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E006.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pursuing the Truth of Rumors, Iroha",
+    "type": "Character",
+    "cost": "1",
+    "Series": "Puella Magi Madoka Magica",
+    "Level": "1",
+    "Power": "500",
+    "Soul": "1",
+    "Trigger Icon": "Soul",
+    "Color": "Yellow",
+    "Trait 1": "Magic",
+    "Trait 2": "Cooking",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": "Counter"
+  },
+  "MR/W80-E007": {
+    "id": "MR/W80-E007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ui Tamaki",
+        "type": "Character",
+        "cost": "1",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E007.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ui Tamaki",
+    "type": "Character",
+    "cost": "1",
+    "Series": "Puella Magi Madoka Magica",
+    "Level": "2",
+    "Power": "7000",
+    "Soul": "1",
+    "Trigger Icon": "1",
+    "Color": "Yellow",
+    "Trait 1": "Magic",
+    "Trait 2": "",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E008": {
+    "id": "MR/W80-E008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Everyone's Own Feelings, Sana",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E008.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Everyone's Own Feelings, Sana",
+    "type": "Character",
+    "cost": "2",
+    "Series": "Puella Magi Madoka Magica",
+    "Level": "2",
+    "Power": "500",
+    "Soul": "2",
+    "Trigger Icon": "Soul",
+    "Color": "Yellow",
+    "Trait 1": "Magic",
+    "Trait 2": "Shield",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E009": {
+    "id": "MR/W80-E009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Precious Memories, Sana",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E009.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Precious Memories, Sana",
+    "type": "Character",
+    "cost": "2",
+    "Series": "Puella Magi Madoka Magica",
+    "Level": "3",
+    "Power": "9000",
+    "Soul": "2",
+    "Trigger Icon": "Soul",
+    "Color": "Yellow",
+    "Trait 1": "Magic",
+    "Trait 2": "",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E010": {
+    "id": "MR/W80-E010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rumor of the Saint of Kamihama, Mami",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E010.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rumor of the Saint of Kamihama, Mami",
+    "type": "Character",
+    "cost": "2",
+    "Series": "Puella Magi Madoka Magica",
+    "Level": "3",
+    "Power": "9500",
+    "Soul": "2",
+    "Trigger Icon": "Soul",
+    "Color": "Yellow",
+    "Trait 1": "Magic",
+    "Trait 2": "Rumor",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E011": {
+    "id": "MR/W80-E011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Advice on a Present, Iroha",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E011.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Advice on a Present, Iroha",
+    "type": "Character",
+    "cost": 0,
+    "Series": "Puella Magi Madoka Magica",
+    "Level": 0,
+    "Power": "1500",
+    "Soul": "1",
+    "Trigger Icon": "0",
+    "Color": "Yellow",
+    "Trait 1": "Magic",
+    "Trait 2": "Cooking",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E012": {
+    "id": "MR/W80-E012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Invitation to Hang Out, Tsuruno",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E012.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Invitation to Hang Out, Tsuruno",
+    "type": "Character",
+    "cost": 0,
+    "Series": "Puella Magi Madoka Magica",
+    "Level": 0,
+    "Power": "1000",
+    "Soul": "1",
+    "Trigger Icon": "",
+    "Color": "Yellow",
+    "Trait 1": "Magic",
+    "Trait 2": "Flame",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E013": {
+    "id": "MR/W80-E013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tsuruno Investigating the Rumors",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E013.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tsuruno Investigating the Rumors",
+    "type": "Character",
+    "cost": 0,
+    "Series": "Puella Magi Madoka Magica",
+    "Level": "1",
+    "Power": "4000",
+    "Soul": "1",
+    "Trigger Icon": "",
+    "Color": "Yellow",
+    "Trait 1": "Magic",
+    "Trait 2": "Flame",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E014": {
+    "id": "MR/W80-E014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Search for Her Sister, Iroha",
+        "type": "Character",
+        "cost": "1",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E014.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Search for Her Sister, Iroha",
+    "type": "Character",
+    "cost": "1",
+    "Series": "Puella Magi Madoka Magica",
+    "Level": "1",
+    "Power": "2000",
+    "Soul": "1",
+    "Trigger Icon": "Soul",
+    "Color": "Yellow",
+    "Trait 1": "Magic",
+    "Trait 2": "Cooking",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E015": {
+    "id": "MR/W80-E015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Magical Girl from Mitakihara City, Mami",
+        "type": "Character",
+        "cost": "1",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E015.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Magical Girl from Mitakihara City, Mami",
+    "type": "Character",
+    "cost": "1",
+    "Series": "Puella Magi Madoka Magica",
+    "Level": "2",
+    "Power": "6500",
+    "Soul": "1",
+    "Trigger Icon": "Soul",
+    "Color": "Yellow",
+    "Trait 1": "Magic",
+    "Trait 2": "Tea",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E016": {
+    "id": "MR/W80-E016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Iroha's Doppel",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E016.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Iroha's Doppel",
+    "type": "Character",
+    "cost": "2",
+    "Series": "Puella Magi Madoka Magica",
+    "Level": "3",
+    "Power": "9500",
+    "Soul": "2",
+    "Trigger Icon": "Soul",
+    "Color": "Yellow",
+    "Trait 1": "Magic",
+    "Trait 2": "Doppel",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E017": {
+    "id": "MR/W80-E017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Let's Go Home Together! Iroha",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E017.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Let's Go Home Together! Iroha",
+    "type": "Character",
+    "cost": 0,
+    "Series": "Puella Magi Madoka Magica",
+    "Level": 0,
+    "Power": "1000",
+    "Soul": "1",
+    "Trigger Icon": "",
+    "Color": "Yellow",
+    "Trait 1": "Magic",
+    "Trait 2": "Cooking",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E018": {
+    "id": "MR/W80-E018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Heartfelt Thanks, Sana",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E018.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Heartfelt Thanks, Sana",
+    "type": "Character",
+    "cost": 0,
+    "Series": "Puella Magi Madoka Magica",
+    "Level": 0,
+    "Power": "1000",
+    "Soul": "1",
+    "Trigger Icon": "",
+    "Color": "Yellow",
+    "Trait 1": "Magic",
+    "Trait 2": "",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E019": {
+    "id": "MR/W80-E019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unsettling Self-Introduction, Mami",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E019.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unsettling Self-Introduction, Mami",
+    "type": "Character",
+    "cost": 0,
+    "Series": "Puella Magi Madoka Magica",
+    "Level": 0,
+    "Power": "2000",
+    "Soul": "1",
+    "Trigger Icon": "",
+    "Color": "Yellow",
+    "Trait 1": "Magic",
+    "Trait 2": "Weapon",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E020": {
+    "id": "MR/W80-E020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mercenary's Reward, Felicia",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E020.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mercenary's Reward, Felicia",
+    "type": "Character",
+    "cost": 0,
+    "Series": "Puella Magi Madoka Magica",
+    "Level": 0,
+    "Power": "3000",
+    "Soul": "1",
+    "Trigger Icon": "",
+    "Color": "Yellow",
+    "Trait 1": "Magic",
+    "Trait 2": "Mercenary",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E021": {
+    "id": "MR/W80-E021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Return From a Delivery, Tsuruno",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E021.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Return From a Delivery, Tsuruno",
+    "type": "Character",
+    "cost": 0,
+    "Series": "Puella Magi Madoka Magica",
+    "Level": "1",
+    "Power": "4000",
+    "Soul": "1",
+    "Trigger Icon": "",
+    "Color": "Yellow",
+    "Trait 1": "Magic",
+    "Trait 2": "Flame",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E022": {
+    "id": "MR/W80-E022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Imprisoned Girl, Sana",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E022.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Imprisoned Girl, Sana",
+    "type": "Character",
+    "cost": 0,
+    "Series": "Puella Magi Madoka Magica",
+    "Level": "1",
+    "Power": "4500",
+    "Soul": "1",
+    "Trigger Icon": "",
+    "Color": "Yellow",
+    "Trait 1": "Magic",
+    "Trait 2": "",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E023": {
+    "id": "MR/W80-E023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Magical Girl Transformation, Felicia",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E023.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Magical Girl Transformation, Felicia",
+    "type": "Character",
+    "cost": 0,
+    "Series": "Puella Magi Madoka Magica",
+    "Level": "1",
+    "Power": "5000",
+    "Soul": "1",
+    "Trigger Icon": "",
+    "Color": "Yellow",
+    "Trait 1": "Magic",
+    "Trait 2": "Weapon",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E024": {
+    "id": "MR/W80-E024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mercenary Business",
+        "type": "Event",
+        "cost": "1",
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E024.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mercenary Business",
+    "type": "Event",
+    "cost": "1",
+    "Series": "Puella Magi Madoka Magica",
+    "Level": "2",
+    "Power": "",
+    "Soul": "",
+    "Trigger Icon": "",
+    "Color": "Yellow",
+    "Trait 1": "",
+    "Trait 2": "",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E025": {
+    "id": "MR/W80-E025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "To Cure Her Younger Sister's Disease",
+        "type": "Climax",
+        "cost": 0,
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E025.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "To Cure Her Younger Sister's Disease",
+    "type": "Climax",
+    "cost": 0,
+    "Series": "Puella Magi Madoka Magica",
+    "Level": 0,
+    "Power": "",
+    "Soul": "",
+    "Trigger Icon": "Choice",
+    "Color": "Yellow",
+    "Trait 1": "",
+    "Trait 2": "",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E026": {
+    "id": "MR/W80-E026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Welcome to Banbanzai",
+        "type": "Climax",
+        "cost": 0,
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E026.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Welcome to Banbanzai",
+    "type": "Climax",
+    "cost": 0,
+    "Series": "Puella Magi Madoka Magica",
+    "Level": 0,
+    "Power": "",
+    "Soul": "",
+    "Trigger Icon": "Wind",
+    "Color": "Yellow",
+    "Trait 1": "",
+    "Trait 2": "",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E027": {
+    "id": "MR/W80-E027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reason for Becoming a Magical Girl",
+        "type": "Climax",
+        "cost": 0,
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E027.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Reason for Becoming a Magical Girl",
+    "type": false,
+    "cost": 0,
+    "Series": "Puella Magi Madoka Magica",
+    "Level": 0,
+    "Power": "",
+    "Soul": "",
+    "Trigger Icon": "Choice",
+    "Color": "Yellow",
+    "Trait 1": "",
+    "Trait 2": "",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
+  },
+  "MR/W80-E028": {
+    "id": "MR/W80-E028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Step Towards the Future",
+        "type": "Climax",
+        "cost": 0,
+        "image": "https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/m/mr_w80/MR_W80_E028.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "A Step Towards the Future",
+    "type": "Climax",
+    "cost": 0,
+    "Series": "Puella Magi Madoka Magica",
+    "Level": 0,
+    "Power": "",
+    "Soul": "",
+    "Trigger Icon": "2 Soul",
+    "Color": "Yellow",
+    "Trait 1": "",
+    "Trait 2": "",
+    "Trait 3": "",
+    "Side": "Weiss",
+    "Counter/Clock": ""
   }
 }
