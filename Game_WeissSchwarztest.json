@@ -75,6 +75,17 @@
                 {
                   "section": "Stock",
                   "style": false
+                },
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Level",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -121,10 +132,6 @@
                   "direction": "row",
                   "style": false,
                   "content": [
-                    {
-                      "section": "Level",
-                      "style": false
-                    },
                     {
                       "section": "Clock",
                       "style": false
