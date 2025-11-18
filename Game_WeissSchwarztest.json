@@ -75,10 +75,6 @@
                 {
                   "section": "Stock",
                   "style": false
-                },
-                {
-                  "section": "Climax_Area",
-                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -144,8 +140,19 @@
               "style": false,
               "content": [
                 {
-                  "section": "Memory",
-                  "style": false
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Climax_Area",
+                      "style": false
+                    },
+                    {
+                      "section": "Memory",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 }
               ],
               "isSymetricalForOpponents": false
