@@ -307,6 +307,22 @@
             "isGroupForbidden": true,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
+          },
+          "Stock": {
+            "title": "Stock",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Stock",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": true,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
           }
         }
       }
