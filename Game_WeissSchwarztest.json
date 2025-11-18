@@ -83,6 +83,10 @@
                     {
                       "section": "Level",
                       "style": false
+                    },
+                    {
+                      "section": "Clock",
+                      "style": false
                     }
                   ],
                   "isSymetricalForOpponents": false
@@ -123,17 +127,6 @@
                     },
                     {
                       "section": "Back_Stage_2",
-                      "style": false
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
-                },
-                {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "Clock",
                       "style": false
                     }
                   ],
