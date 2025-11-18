@@ -63,8 +63,7 @@
           "Stock",
           "Climax_Area",
           "Level",
-          "Clock",
-          "Memory"
+          "Clock"
         ],
         "layout": {
           "direction": "row",
@@ -141,10 +140,6 @@
               "direction": "column",
               "style": false,
               "content": [
-                {
-                  "section": "Memory",
-                  "style": false
-                },
                 {
                   "section": "Climax Area",
                   "style": false
@@ -287,22 +282,6 @@
             "displayedTitle": "Climax Area",
             "noQuickActions": false,
             "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": true,
-            "keepTappedNewTurn": true,
-            "showHiddenCardInHistory": false
-          },
-          "Memory": {
-            "title": "Memory",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Memory",
-            "noQuickActions": false,
-            "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": true,
