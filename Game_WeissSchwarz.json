@@ -102,21 +102,6 @@
                     }
                   ],
                   "isSymetricalForOpponents": false
-                },
-                {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "Level",
-                      "style": false
-                    },
-                    {
-                      "section": "Clock",
-                      "style": false
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
                 }
               ],
               "isSymetricalForOpponents": true
@@ -236,23 +221,6 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Sideboard": {
-            "isDefaultSection": true,
-            "title": "Sideboard",
-            "isHidden": "no",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Center_Stage_1": {
             "title": "Center_Stage_1",
             "isHidden": "no",
@@ -261,7 +229,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Character",
+            "displayedTitle": "Center Stage Left",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -277,7 +245,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Character",
+            "displayedTitle": "Center Stage Middle",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -293,7 +261,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Character",
+            "displayedTitle": "Center Stage Right",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -309,7 +277,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Character",
+            "displayedTitle": "Back Stage Left",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -325,7 +293,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Character",
+            "displayedTitle": "Back Stage Right",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
