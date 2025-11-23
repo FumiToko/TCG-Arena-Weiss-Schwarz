@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Magia Record Anime TD+",
+    "id": "Magia Record Anime TD+",
+    "game": "Weiss Schwarz",
+    "format": "Neo Standard",
+    "cardCount": 50,
+    "createdAt": "2025-04-21T14:01:10.188Z",
+    "lastModifiedAt": "2025-04-21T14:01:36.493Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Character",
+        "Event",
+        "Climax"
+      ],
+      "Character": [
+        {
+          "count": 4,
+          "id": "MR/W80-TE01"
+        },
+        {
+          "count": 2,
+          "id": "MR/W80-TE02"
+        },
+        {
+          "count": 4,
+          "id": "MR/W80-TE03"
+        },
+        {
+          "count": 2,
+          "id": "MR/W80-TE04"
+        },
+        {
+          "count": 2,
+          "id": "MR/W80-TE05"
+        },
+        {
+          "count": 2,
+          "id": "MR/W80-TE06"
+        },
+        {
+          "count": 2,
+          "id": "MR/W80-TE07"
+        },
+        {
+          "count": 2,
+          "id": "MR/W80-TE08"
+        },
+        {
+          "count": 2,
+          "id": "MR/W80-TE08"
+        },
+        {
+          "count": 2,
+          "id": "MR/W80-TE09"
+        },
+        {
+          "count": 4,
+          "id": "MR/W80-TE12"
+        },
+        {
+          "count": 2,
+          "id": "MR/W80-TE13"
+        },
+        {
+          "count": 2,
+          "id": "MR/W80-TE14"
+        }
+        {
+          "count": 4,
+          "id": "MR/W80-TE15"
+        }
+        {
+          "count": 2,
+          "id": "MR/W80-TE16"
+        }
+        {
+          "count": 2,
+          "id": "MR/W80-TE17"
+        }
+        {
+          "count": 2,
+          "id": "MR/W80-TE18"
+        }
+      ],
+      "Event": [
+        {
+          "count": 2,
+          "id": "MR/W80-TE10"
+        },
+      ],
+      "Climax": [
+        {
+          "count": 2,
+          "id": "MR/W80-TE11"
+        },
+        {
+          "count": 4,
+          "id": "MR/W80-TE19"
+        },
+        {
+          "count": 2,
+          "id": "MR/W80-TE20"
+        },
+      ]
+    }
+  },
